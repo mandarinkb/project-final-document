@@ -1,0 +1,115 @@
+HTML
+
+HTML คือ ภาษาหลักที่ใช้ในการเขียนเว็บเพจ โดยใช้ Tag ในการกำหนดการแสดงผล HTML ย่อมาจากคำว่า Hypertext Markup Language
+โดย Hypertext หมายถึงข้อความที่เชื่อมต่อกันผ่านลิงค์(Hyperlink) Markup languageหมายถึงภาษาที่ใช้ Tag ในการกำหนดการแสดงผลสิ่งต่างๆที่แสดงอยู่บนเว็บเพจ 
+ดังนั้น HTML จึงหมายถึง ภาษาที่ใช้ Tag ในการกำหนดการแสดงผลเว็บเพจที่ต่างก็เชื่อมถึงกันใน Hyperspace ผ่าน Hyperlink นั่นเอง
+ปัจจุบันมีการพัฒนาและกำหนดมาตรฐานโดยองค์กร World Wide Web Consortium (W3C)
+
+
+ที่มาบทความ  : https://sites.google.com/site/ninknitkann/--html-khux-xari
+ที่มาของรูป : https://sites.google.com/site/ninknitkann/--html-khux-xari
+
+==============================================================================
+java
+
+    ภาษาจาวา (Java Language) คือ ภาษาคอมพิวเตอร์ที่ถูกพัฒนาขึ้นโดยบริษัท ซันไมโครซิสเต็มส์ เป็นภาษาสำหรับเขียนโปรแกรมที่สนับสนุนการเขียนโปรแกรมเชิงวัตถุ (OOP : Object-Oriented Programming)
+โปรแกรมที่เขียนขึ้นถูกสร้างภายในคลาส ดังนั้นคลาส (Class) คือที่เก็บเมทธอด (Method) หรือพฤติกรรม (Behavior) ซึ่งมีสถานะ (State) และรูปพรรณ (Identity) ประจำพฤติกรรม 
+    ภาษาจาวา(Java Language) คือ ภาษาที่ถูกพัฒนาขึ้นโดยบริษัท ซันไมโครซิสเต็มส์ (Sun Microsystems Inc.) เป็นภาษาสำหรับเขียนโปรแกรมภาษาหนึ่ง มีลักษณะสนับสนุนการเขียนโปรแกรมเชิงวัตถุ (OOP : Object-Oriented Programming) ที่ชัดเจน
+โปรแกรมต่าง ๆ ถูกสร้างภายใน class โปรแกรมเหล่านั้นถูกเรียกว่า method หรือ behavior โดยปกติจะเรียกแต่ละคลาสว่าวัตถุ โดยแต่ละวัตถุมีพฤติกรรมมากมาย โปรแกรมที่สมบูรณ์จะเกิดจากหลายวัตถุ หรือหลายคลาสมารวมกัน โดยแต่ละคลาสจะมีเมทธอด หรือพฤติกรรมแตกต่างกันไป
+
+ที่มาบทความ : https://sites.google.com/site/lllfejherh/phun-than-phasa-cawa
+ที่มาของรูป : https://www.thaipng.com/png-qqkh55/
+
+springboot
+
+    Spring Boot เป็น project นึงของ Spring Framework ที่ทำให้พัฒนา Application ได้รวดเร็วโดยที่มีการทำ Auto Configuration ทำให้ไม่ต้องเสียเวลาไป Config ทุกอย่างเองเหมือนแต่ก่อน  เราสามารถสร้าง standalone application ที่ export เป็น jar  หรือจะทำเป็น war แล้วนำไป deploy ที่ application server เหมือนเดิมก็ได้เช่นกัน
+    Spring Boot มี Features อะไรบ้าง
+        สร้างเป็น standalone spring application มี main method
+        มี embed container (tomcat, jetty, undertow)  ปกติจะเป็น tomcat แต่สามารถเลือกเป็นตัวอื่นได้
+        มี POM ‘starter’ ที่เตรียมมาให้พร้อมใช้งาน ไม่ต้องกังวลเรื่อง dependency ให้ปวดหัว
+        Auto Configuration ทำให้ไม่ได้ configuration มากเหมือนแต่ก่อน
+        เตรียม feature สำหรับ monitoring เพื่อดู memory , thread, metrics
+        ไม่จำเป็นต้องมี XML configuration อีกต่อไปเพราะทุกอย่างเขียนเป็น Java-based Configuration
+
+ที่มาบทความ : https://assanai.com/getting-started-spring-boot/
+ที่มาของรูป : http://www.4xtreme.com/wp-content/uploads/2019/10/spring-boot-logo.png
+
+
+jsoup
+
+    jsoupเป็นLibraryที่มีประโยชน์มากโดยที่ทำงานร่วมกันและใช้สำหรับการParseHTMLได้ Jsoupมี API ที่มีประโยชน์ซึ่งช่วยในExtract ข้อมูลข้อกำหนดที่ใช้ในการ Implement ในjsoupคือ WHATWG HTML5นอกจากนี้jsoupยังสามารถ ParseHTML ลงใน DOM ได้อีกด้วย jsoupยังอนุญาตหรือ ParseHTML จาก URL หรือไฟล์ใดๆ ก็ได้ อย่างเช่นคุณสามารถ Fetch หน้าแรกของ http://noeticforce.com , Parse และ FetchH2Title ทั้งหมดลงในList ของ Element
+
+ที่มาของบทความ: https://www.techstarthailand.com/blog/detail/10-Best-Libraries-for-Java-Programmers/348   
+
+====================================
+
+MariaDB
+
+MariaDB คือ ฟรีซอฟต์แวร์แบบโอเพนซอสต์สำหรับจัดการกับฐานข้อมูล MariaDB เป็นหนึ่งในฐานข้อมูลที่ได้รับความนิยมมากที่สุดในโลก mariadb ถูกพัฒนาขึ้นโดยนักพัฒนาเดิมของ MySQL และรับประกันได้เลยว่าMariaDB จะเป็นฟรีโอเพนซอร์ส ผู้ใช้ที่โดดเด่น ได้แก่ วิกิพีเดีย, WordPress.com และ Google
+MariaDB เปลี่ยนข้อมูลเป็นฐานข้อมูลที่มีโครงสร้างในหลากหลายแอพพลิเคชั่น ตั้งแต่ธนาคารไปจนถึงเว็บไซต์ต่างๆ เป็นการปรับปรุงและแทนที่ด้วยการแทนที่ของ MySQL มาเธอร์ดีบีใช้เนื่องจากมีความรวดเร็วและสามารถปรับขนาดได้และมีระบบนิเวศที่อุดมไปด้วยเครื่องยนต์สตอเรจปลั๊กอินและเครื่องมืออื่น ๆ ทำให้สามารถใช้งานได้หลากหลาย
+
+ที่มาของบทความ: https://www.bestinternet.co.th/single_blog.php?id=14&MariaDB%20%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3
+ที่มาของรูป : https://www.bestinternet.co.th/single_blog.php?id=14&MariaDB%20%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3
+
+======================================
+
+ElasticSearch
+
+ElasticSearch เป็นเครื่องมือค้นหาและวิเคราะห์ข้อมูลแบบโอเพนซอร์ส RESTful และแบบกระจายซึ่งมีมาให้ Apache Lucene ตั้งแต่เปิดตัวในปี 2010 ElasticSearch ก็กลายเป็นเครื่องมือค้นหาที่ได้รับความนิยมมากที่สุดอย่างรวดเร็ว และนิยมใช้ในการวิเคราะห์บันทึก การค้นหาข้อความฉบับเต็ม ระบบรักษาความปลอดภัยอัจฉริยะ การวิเคราะห์ธุรกิจ และกรณีใช้งานอัจฉริยะในแง่การดำเนินการ
+
+
+ที่มาบทความ : https://aws.amazon.com/th/elasticsearch-service/the-elk-stack/what-is-elasticsearch/
+ที่มาของรูป : https://www.poolsawat.com/elasticsearch-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84/
+
+===========================================
+
+Redis
+
+Redis เป็น in-memory data structure store หรือ ระบบเก็บข้อมูลแบบกึ่งมีโครงสร้าง ที่ทำงานบน Ram มองว่ามันเป็นเหมือน database ที่ทำงานบน Ram  ซึ่ง Redis มันทำงานได้เร็วมากๆ จึงนิยมทำเป็น Caching หรือเป็น temporary database เพื่อใช้ในการประมวลผลงานขนาดใหญ่
+
+ที่มาบทความ : https://www.softmelt.com/article.php?id=564
+ที่มาของรูป : https://medium.com/@iamgique/what-redis-is-4381ff32880d
+
+================================================
+Angular
+
+Angular คือ ฟอนต์เอนด์เฟรมเวิร์ก (Frontend Framework) พัฒนาโดย Google โดย Angular เป็นเฟรมเวิร์กที่ใช้สำหรับ พัฒนาเว็บแอพพลิเคชันในฝั่งของไคลเอนต์ และถ้าต้องการติดต่อกับเซิร์ฟเวอร์ ก็จะใช้ภาษาหรือเฟรมเวิร์กแบบอื่นๆ ติดต่อกับเซิร์ฟเวอร์แทน
+
+
+ที่มาบทความ : https://medium.com/@tawantawan1997/angular-%E0%B8%84%E0%B8%B7%E0%B8%AD-%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%99-cb24bbcc3e82
+ที่มาของรูป :  https://angular.io/presskit
+  
+===========================================
+
+ionic
+
+Ionic Framework คือเครื่องมือในการสร้าง HTML , CSS และ JavaScript เพื่อใช้ในการสร้าง Mobile Application ซึ่งสามารถใช้งานได้ค่อนข้างง่าย Ionic Framework เป็นเครื่องมือสร้างแอพมือถือที่สามารถสร้างทีเดียว สามารถใช้งานได้บนระบบปฏิบัติการ iOS, Android และ Windows ซึ่งก็จะใช้งานร่วมกับ Framework ตัวอื่น ๆ ได้ คือ Angular และ Apache Cordova ในตอนสุดท้ายเพื่อให้ทั้งแอพที่เขียนมาใช้ได้กับทุกระบบปฏิบัติการนั้นเอง
+
+ที่มาบทความ : https://medium.com/artisan-digital-agency/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%9E%E0%B8%AF-%E0%B9%81%E0%B8%9A%E0%B8%9A-cross-platform-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-ionic-framework-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-986c7d549780
+ที่มาของรูป : https://appfity.com/mobile-app-development-frameworks-2019/
+
+
+===========================================
+
+docker 
+
+Docker คือแพลตฟอร์มซอฟต์แวร์ที่ช่วยให้คุณสร้าง ทดสอบ และติดตั้งแอปพลิเคชันใช้จริงได้อย่างรวดเร็ว Docker จะบรรจุซอฟต์แวร์ลงไปในหน่วยที่เป็นมาตรฐานเรียกว่า คอนเทนเนอร์ ซึ่งจะมีทุกสิ่งที่ซอฟต์แวร์ต้องใช้ในการเรียกใช้งาน รวมทั้งไลบรารี เครื่องมือสำหรับระบบ โค้ด และรันไทม์ เมื่อใช้ Docker คุณจะสามารถติดตั้งใช้จริงและปรับขนาดแอปพลิเคชันให้เหมาะกับทุกสภาพแวดล้อมและทราบว่าโค้ดของคุณจะเรียกใช้ได้อย่างอย่างรวดเร็ว
+
+ที่มาบทความ : https://aws.amazon.com/th/docker/
+ที่มาของรูป :  https://aws.amazon.com/th/docker/
+
+
+===============================================
+
+Web APIs 
+
+API ย่อมาจาก Application Programming Interface คือ ช่องทางการเชื่อมต่อ ,ช่องทางหนึ่งที่จะเชื่อมต่อกับเว็บไซต์ผู้ให้บริการ API จากที่อื่น เป็นตัวกลางที่ทำให้โปรแกรมประยุกต์เชื่อมต่อกับโปรแกรมประยุกต์อื่น หรือเชื่อมการทำงานเข้ากับระบบปฏิบัติการ 
+ซึ่ง Web APIs นิยมใช้กันมากในปัจจุบัน เพราะอยู่ในกลุ่มของ HTTP และขยายออกไปสู่รูปแบบ XML และ JSON ซึ่งโดนรวมแล้วก็คืออยู่บน web service เช่น SOAP (Simple Object Access Protocol) ใช้ XML format ส่งข้อมูล REST (Representational State Transfer) สามารถใช้ XML หรือ JSON format ส่งข้อมูล
+
+
+ที่มาบทความ : https://www.ko.in.th/api-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B8%97%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B8%A1%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B2/
+ที่มาของรูป :  https://saixiii.com/what-is-api/api-icon/
+
+===============================================
+
+
